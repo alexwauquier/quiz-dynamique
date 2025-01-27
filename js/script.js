@@ -10,7 +10,7 @@ let timeLeft;
 
 // Fonction pour récupérer une question via PHP
 function fetchQuestion() {
-    fetch('../quiz_project/php/get_question.php') // Appelle le fichier PHP qui génère la question
+    fetch('./php/get_question.php') // Appelle le fichier PHP qui génère la question
     .then(response => response.json()) // Convertit la réponse en JSON
     .then(data => {
         currentQuestion = data; // Stocke les données pour l'accès global
