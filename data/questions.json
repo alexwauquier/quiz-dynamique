@@ -1,0 +1,52 @@
+[
+    {
+        "question": "Quelle est la capitale de la France ?",
+        "choices": [ "Paris", "Lyon", "Marseille", "Nice"],
+        "correct": 0
+    },
+    {
+        "question": "Quelle est la couleur du ciel ?",
+        "choices": [ "Rouge", "Bleu", "Vert", "Jaune"],
+        "correct": 1
+    },
+    {
+        "question": "Quel est le plus grand océan du monde ?",
+        "choices": ["Atlantique", "Pacifique", "Arctique", "Indien"],
+        "correct": 1
+    },
+    {
+        "question": "Qui a peint la Joconde ?",
+        "choices": ["Vincent van Gogh", "Claude Monet", "Leonard de Vinci", "Pablo Picasso"],
+        "correct": 2
+    },
+    {
+        "question": "Quelle planète est la plus proche du Soleil ?",
+        "choices": ["Terre", "Mars", "Mercure", "Vénus"],
+        "correct": 2
+    },
+    {
+        "question": "Dans quelle ville se trouve le Colisée ?",
+        "choices": ["Paris", "Rome", "Athènes", "Istanbul"],
+        "correct": 1
+    },
+    {
+        "question": "Quelle est la monnaie utilisée au Japon ?",
+        "choices": ["Dollar", "Yen", "Euro", "Won"],
+        "correct": 1
+    },
+    {
+        "question": "Quel est le symbole chimique de l'eau ?",
+        "choices": ["O2", "CO2", "H2O", "NaCl"],
+        "correct": 2
+    },
+    {
+        "question": "Quelle est la langue officielle du Brésil ?",
+        "choices": ["Espagnol", "Anglais", "Portugais", "Français"],
+        "correct": 2
+    },
+    {
+        "question": "Qui a écrit 'Les Misérables' ?",
+        "choices": ["Victor Hugo", "Émile Zola", "Gustave Flaubert", "Honoré de Balzac"],
+        "correct": 0
+    }
+]
